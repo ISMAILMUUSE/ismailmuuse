@@ -24,7 +24,7 @@
 
 #### 🧰 **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,webpack,mysql,mongodb" /><br/>
-✅ Cursor • ✅ MongoDB Compass • ✅ MySQL
+
 
 #### ☁️ **Others**
 REST APIs • Firebase • GraphQL *(basic)*  
